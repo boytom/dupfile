@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>css/dupfilewin.css</file>
+        <file>css/dupfilelinux.css</file>
+    </qresource>
+</RCC>
